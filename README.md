@@ -10,8 +10,9 @@
 
 <!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKarupothula)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-karupothula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-karupothula-2a3494357/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karupothuladineshgoud@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DineshKarupothula)
 
 <br/>
 
@@ -106,7 +107,7 @@
 | End-to-end procurement lifecycle platform | Production-grade shopping platform with JWT auth |
 | React • Node • Express • MongoDB • JWT • Tailwind | React • Node • Express • MongoDB • Redux • Stripe |
 | RBAC · 4 roles · RFQ · bid evaluation · audit trail | Cart · orders · inventory · refresh token rotation |
-| [![GitHub](https://img.shields.io/badge/🔗_Repo-181717?style=flat-square&logo=github)](https://github.com/DineshKarupothula) | [![GitHub](https://img.shields.io/badge/🔗_Repo-181717?style=flat-square&logo=github)](https://github.com/DineshKarupothula) |
+| [![Live](https://img.shields.io/badge/🌐_Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://vendor-bridge-kappa.vercel.app/) [![GitHub](https://img.shields.io/badge/🔗_Repo-181717?style=flat-square&logo=github)](https://github.com/DineshKarupothula) | [![Live](https://img.shields.io/badge/🌐_Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://nexus-ecommerce-one.vercel.app/) [![GitHub](https://img.shields.io/badge/🔗_Repo-181717?style=flat-square&logo=github)](https://github.com/DineshKarupothula) |
 
 | 🚗 Vehicle Speed & Plate Detection | 🔮 More Coming Soon |
 |:---:|:---:|
@@ -224,8 +225,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKarupothula)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-karupothula)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-karupothula-2a3494357/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karupothuladineshgoud@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DineshKarupothula)
 
 </div>
 
